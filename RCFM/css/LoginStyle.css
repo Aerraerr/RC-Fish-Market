@@ -1,0 +1,77 @@
+*{
+    background-color: whitesmoke;
+}
+#RC{
+    width: 100px;
+    position: absolute;
+    left:37%;
+    margin-top: 30px;
+    background-color: transparent;
+
+}
+
+.logbox{
+    width: 390px;
+    height: 420px;
+    background-color: #212529;
+    position: absolute;
+    top: 45%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    border-radius: 30px;
+}
+.forinput{
+    background-color: transparent;
+    position: absolute;
+    margin-top: 235px;
+
+
+}
+#inputtype{
+    font-size: 17px;
+    margin-left: 74px;
+    margin-bottom: 15px;
+    width: 213px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    background-color: whitesmoke;
+    padding-left: 38px;
+}
+.inputlogo{
+    position: absolute;
+    background-color: transparent;
+    width: 10px;
+    margin-left: 100px;
+    margin-top: 3px;
+}
+.inputlogo img{
+    background-color: transparent;
+    width: 25px;
+    padding-bottom: 20px;
+    margin-left: -18px;
+
+}
+
+#text1{
+    position: absolute;
+    background-color: transparent;
+    color: whitesmoke;
+    margin-top: 147px;
+    font-size: 25px;
+    margin-left: 71px;
+    font-family: 'Segoe UI';
+    letter-spacing: 2.5px;
+}
+#text2{
+    position: absolute;
+    background-color: transparent;
+    color: whitesmoke;
+    margin-top: 177px;
+    font-size: 15px;
+    margin-left: 118px;
+    font-family: 'Segoe UI';
+    letter-spacing: 3px;
+    word-spacing: 15px;
+    font-weight: 100;
+}

@@ -1,0 +1,23 @@
+#RCFM{
+    margin-left: 50px;
+    margin-right: -70px;
+}
+#RC{
+    position: absolute;
+    width: 25px;
+    margin-left: -40px;
+    margin-top: -1px;
+}
+
+
+
+
+
+/* LIST OF PRODUCTS*/
+#addproduct{
+    position: absolute;
+    margin-top: 300px;
+}
+.AddNew input{
+    width:300px;
+}
